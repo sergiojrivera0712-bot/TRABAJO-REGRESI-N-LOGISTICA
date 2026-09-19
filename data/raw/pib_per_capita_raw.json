@@ -1,0 +1,4242 @@
+[
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "ZH",
+      "value": "Africa Eastern and Southern"
+    },
+    "countryiso3code": "AFE",
+    "date": "2019",
+    "value": 1508.0315245887,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "ZI",
+      "value": "Africa Western and Central"
+    },
+    "countryiso3code": "AFW",
+    "date": "2019",
+    "value": 2219.41255534667,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "1A",
+      "value": "Arab World"
+    },
+    "countryiso3code": "ARB",
+    "date": "2019",
+    "value": 6683.67016877686,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "S3",
+      "value": "Caribbean small states"
+    },
+    "countryiso3code": "CSS",
+    "date": "2019",
+    "value": 13995.7626558947,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "B8",
+      "value": "Central Europe and the Baltics"
+    },
+    "countryiso3code": "CEB",
+    "date": "2019",
+    "value": 16534.9661895205,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "V2",
+      "value": "Early-demographic dividend"
+    },
+    "countryiso3code": "EAR",
+    "date": "2019",
+    "value": 3481.75530893525,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "Z4",
+      "value": "East Asia & Pacific"
+    },
+    "countryiso3code": "EAS",
+    "date": "2019",
+    "value": 11677.4429355606,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "4E",
+      "value": "East Asia & Pacific (excluding high income)"
+    },
+    "countryiso3code": "EAP",
+    "date": "2019",
+    "value": 8286.45749748666,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "T4",
+      "value": "East Asia & Pacific (IDA & IBRD countries)"
+    },
+    "countryiso3code": "TEA",
+    "date": "2019",
+    "value": 8379.42503514668,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "XC",
+      "value": "Euro area"
+    },
+    "countryiso3code": "EMU",
+    "date": "2019",
+    "value": 38679.6118917933,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "Z7",
+      "value": "Europe & Central Asia"
+    },
+    "countryiso3code": "ECS",
+    "date": "2019",
+    "value": 25045.1218961925,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "7E",
+      "value": "Europe & Central Asia (excluding high income)"
+    },
+    "countryiso3code": "ECA",
+    "date": "2019",
+    "value": 6036.15175345642,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "T7",
+      "value": "Europe & Central Asia (IDA & IBRD countries)"
+    },
+    "countryiso3code": "TEC",
+    "date": "2019",
+    "value": 9040.92665915657,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "EU",
+      "value": "European Union"
+    },
+    "countryiso3code": "EUU",
+    "date": "2019",
+    "value": 35374.1493923083,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "XE",
+      "value": "Heavily indebted poor countries (HIPC)"
+    },
+    "countryiso3code": "HPC",
+    "date": "2019",
+    "value": 984.553372875279,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "XD",
+      "value": "High income"
+    },
+    "countryiso3code": "",
+    "date": "2019",
+    "value": 41570.3760789982,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "XF",
+      "value": "IBRD only"
+    },
+    "countryiso3code": "IBD",
+    "date": "2019",
+    "value": 6474.8042775296,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "ZT",
+      "value": "IDA & IBRD total"
+    },
+    "countryiso3code": "IBT",
+    "date": "2019",
+    "value": 5168.03480575859,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "XH",
+      "value": "IDA blend"
+    },
+    "countryiso3code": "IDB",
+    "date": "2019",
+    "value": 2210.55539131628,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "XI",
+      "value": "IDA only"
+    },
+    "countryiso3code": "IDX",
+    "date": "2019",
+    "value": 1187.14057928369,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "XG",
+      "value": "IDA total"
+    },
+    "countryiso3code": "IDA",
+    "date": "2019",
+    "value": 1546.57261928545,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "V3",
+      "value": "Late-demographic dividend"
+    },
+    "countryiso3code": "LTE",
+    "date": "2019",
+    "value": 10120.4663725773,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "ZJ",
+      "value": "Latin America & Caribbean"
+    },
+    "countryiso3code": "LCN",
+    "date": "2019",
+    "value": 8539.95940708219,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "XJ",
+      "value": "Latin America & Caribbean (excluding high income)"
+    },
+    "countryiso3code": "LAC",
+    "date": "2019",
+    "value": 8006.02224102566,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "T2",
+      "value": "Latin America & the Caribbean (IDA & IBRD countries)"
+    },
+    "countryiso3code": "TLA",
+    "date": "2019",
+    "value": 8363.2081656376,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "XL",
+      "value": "Least developed countries: UN classification"
+    },
+    "countryiso3code": "LDC",
+    "date": "2019",
+    "value": 1106.28664072321,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "XO",
+      "value": "Low & middle income"
+    },
+    "countryiso3code": "LMY",
+    "date": "2019",
+    "value": 4857.12471542798,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "XM",
+      "value": "Low income"
+    },
+    "countryiso3code": "",
+    "date": "2019",
+    "value": 671.117139517642,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "XN",
+      "value": "Lower middle income"
+    },
+    "countryiso3code": "",
+    "date": "2019",
+    "value": 2116.20506959362,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "ZQ",
+      "value": "Middle East, North Africa, Afghanistan & Pakistan"
+    },
+    "countryiso3code": "MEA",
+    "date": "2019",
+    "value": 5416.06362418233,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "XQ",
+      "value": "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)"
+    },
+    "countryiso3code": "MNA",
+    "date": "2019",
+    "value": 2701.71325265282,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "T3",
+      "value": "Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)"
+    },
+    "countryiso3code": "TMN",
+    "date": "2019",
+    "value": 2695.09130976796,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "XP",
+      "value": "Middle income"
+    },
+    "countryiso3code": "MIC",
+    "date": "2019",
+    "value": 5333.00944959533,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "XU",
+      "value": "North America"
+    },
+    "countryiso3code": "NAC",
+    "date": "2019",
+    "value": 63306.810223782,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "XY",
+      "value": "Not classified"
+    },
+    "countryiso3code": "",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "OE",
+      "value": "OECD members"
+    },
+    "countryiso3code": "OED",
+    "date": "2019",
+    "value": 39940.835037623,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "S4",
+      "value": "Other small states"
+    },
+    "countryiso3code": "OSS",
+    "date": "2019",
+    "value": 12908.1967698249,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "S2",
+      "value": "Pacific island small states"
+    },
+    "countryiso3code": "PSS",
+    "date": "2019",
+    "value": 4185.0758997627,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "V4",
+      "value": "Post-demographic dividend"
+    },
+    "countryiso3code": "PST",
+    "date": "2019",
+    "value": 46125.7453007656,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "V1",
+      "value": "Pre-demographic dividend"
+    },
+    "countryiso3code": "PRE",
+    "date": "2019",
+    "value": 1682.64777483043,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "S1",
+      "value": "Small states"
+    },
+    "countryiso3code": "SST",
+    "date": "2019",
+    "value": 11997.3036529705,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "8S",
+      "value": "South Asia"
+    },
+    "countryiso3code": "SAS",
+    "date": "2019",
+    "value": 2067.05975680251,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "T5",
+      "value": "South Asia (IDA & IBRD)"
+    },
+    "countryiso3code": "TSA",
+    "date": "2019",
+    "value": 2067.05975680251,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "ZG",
+      "value": "Sub-Saharan Africa"
+    },
+    "countryiso3code": "SSF",
+    "date": "2019",
+    "value": 1797.04121765415,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "ZF",
+      "value": "Sub-Saharan Africa (excluding high income)"
+    },
+    "countryiso3code": "SSA",
+    "date": "2019",
+    "value": 1795.55378673641,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "T6",
+      "value": "Sub-Saharan Africa (IDA & IBRD countries)"
+    },
+    "countryiso3code": "TSS",
+    "date": "2019",
+    "value": 1797.04121765415,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "XT",
+      "value": "Upper middle income"
+    },
+    "countryiso3code": "",
+    "date": "2019",
+    "value": 8244.30681174043,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "1W",
+      "value": "World"
+    },
+    "countryiso3code": "WLD",
+    "date": "2019",
+    "value": 11417.5958587724,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "AF",
+      "value": "Afghanistan"
+    },
+    "countryiso3code": "AFG",
+    "date": "2019",
+    "value": 496.6025042585,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "AL",
+      "value": "Albania"
+    },
+    "countryiso3code": "ALB",
+    "date": "2019",
+    "value": 6069.43903131027,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "DZ",
+      "value": "Algeria"
+    },
+    "countryiso3code": "DZA",
+    "date": "2019",
+    "value": 4468.45341883656,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "AS",
+      "value": "American Samoa"
+    },
+    "countryiso3code": "ASM",
+    "date": "2019",
+    "value": 12886.1359517218,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "AD",
+      "value": "Andorra"
+    },
+    "countryiso3code": "AND",
+    "date": "2019",
+    "value": 41257.8045861543,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "AO",
+      "value": "Angola"
+    },
+    "countryiso3code": "AGO",
+    "date": "2019",
+    "value": 2507.86807213642,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "AG",
+      "value": "Antigua and Barbuda"
+    },
+    "countryiso3code": "ATG",
+    "date": "2019",
+    "value": 18896.3721832248,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "AR",
+      "value": "Argentina"
+    },
+    "countryiso3code": "ARG",
+    "date": "2019",
+    "value": 9955.97478680428,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "AM",
+      "value": "Armenia"
+    },
+    "countryiso3code": "ARM",
+    "date": "2019",
+    "value": 4597.22887399548,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "AW",
+      "value": "Aruba"
+    },
+    "countryiso3code": "ABW",
+    "date": "2019",
+    "value": 30654.4851235397,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "AU",
+      "value": "Australia"
+    },
+    "countryiso3code": "AUS",
+    "date": "2019",
+    "value": 55194.7585097428,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "AT",
+      "value": "Austria"
+    },
+    "countryiso3code": "AUT",
+    "date": "2019",
+    "value": 49885.9947355204,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "AZ",
+      "value": "Azerbaijan"
+    },
+    "countryiso3code": "AZE",
+    "date": "2019",
+    "value": 4805.75371765917,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "BS",
+      "value": "Bahamas, The"
+    },
+    "countryiso3code": "BHS",
+    "date": "2019",
+    "value": 33640.3369861278,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "BH",
+      "value": "Bahrain"
+    },
+    "countryiso3code": "BHR",
+    "date": "2019",
+    "value": 27259.7438599327,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "BD",
+      "value": "Bangladesh"
+    },
+    "countryiso3code": "BGD",
+    "date": "2019",
+    "value": 2129.79896954606,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "BB",
+      "value": "Barbados"
+    },
+    "countryiso3code": "BRB",
+    "date": "2019",
+    "value": 21929.435611489,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "BY",
+      "value": "Belarus"
+    },
+    "countryiso3code": "BLR",
+    "date": "2019",
+    "value": 6837.77339645635,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "BE",
+      "value": "Belgium"
+    },
+    "countryiso3code": "BEL",
+    "date": "2019",
+    "value": 46716.6227467964,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "BZ",
+      "value": "Belize"
+    },
+    "countryiso3code": "BLZ",
+    "date": "2019",
+    "value": 6171.61449761423,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "BJ",
+      "value": "Benin"
+    },
+    "countryiso3code": "BEN",
+    "date": "2019",
+    "value": 1130.82135339795,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "BM",
+      "value": "Bermuda"
+    },
+    "countryiso3code": "BMU",
+    "date": "2019",
+    "value": 115798.040775578,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "BT",
+      "value": "Bhutan"
+    },
+    "countryiso3code": "BTN",
+    "date": "2019",
+    "value": 3576.87987100503,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "BO",
+      "value": "Bolivia"
+    },
+    "countryiso3code": "BOL",
+    "date": "2019",
+    "value": 4203.15492855788,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "BA",
+      "value": "Bosnia and Herzegovina"
+    },
+    "countryiso3code": "BIH",
+    "date": "2019",
+    "value": 6122.37541352353,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "BW",
+      "value": "Botswana"
+    },
+    "countryiso3code": "BWA",
+    "date": "2019",
+    "value": 7172.08956480028,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2019",
+    "value": 9029.83326681073,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "VG",
+      "value": "British Virgin Islands"
+    },
+    "countryiso3code": "VGB",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "BN",
+      "value": "Brunei Darussalam"
+    },
+    "countryiso3code": "BRN",
+    "date": "2019",
+    "value": 30426.5730656528,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "BG",
+      "value": "Bulgaria"
+    },
+    "countryiso3code": "BGR",
+    "date": "2019",
+    "value": 10354.2500414088,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "BF",
+      "value": "Burkina Faso"
+    },
+    "countryiso3code": "BFA",
+    "date": "2019",
+    "value": 764.853077774946,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "BI",
+      "value": "Burundi"
+    },
+    "countryiso3code": "BDI",
+    "date": "2019",
+    "value": 234.31061590725,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "CV",
+      "value": "Cabo Verde"
+    },
+    "countryiso3code": "CPV",
+    "date": "2019",
+    "value": 4380.78117331128,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "KH",
+      "value": "Cambodia"
+    },
+    "countryiso3code": "KHM",
+    "date": "2019",
+    "value": 2225.87705485686,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "CM",
+      "value": "Cameroon"
+    },
+    "countryiso3code": "CMR",
+    "date": "2019",
+    "value": 1555.22660476477,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "CA",
+      "value": "Canada"
+    },
+    "countryiso3code": "CAN",
+    "date": "2019",
+    "value": 46352.9695208927,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "KY",
+      "value": "Cayman Islands"
+    },
+    "countryiso3code": "CYM",
+    "date": "2019",
+    "value": 88254.2903677044,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "CF",
+      "value": "Central African Republic"
+    },
+    "countryiso3code": "CAF",
+    "date": "2019",
+    "value": 449.228467602439,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "TD",
+      "value": "Chad"
+    },
+    "countryiso3code": "TCD",
+    "date": "2019",
+    "value": 893.336441643325,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "JG",
+      "value": "Channel Islands"
+    },
+    "countryiso3code": "CHI",
+    "date": "2019",
+    "value": 60564.6293993681,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2019",
+    "value": 14496.9345640362,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "CN",
+      "value": "China"
+    },
+    "countryiso3code": "CHN",
+    "date": "2019",
+    "value": 10342.9009524335,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2019",
+    "value": 6472.54544924705,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "KM",
+      "value": "Comoros"
+    },
+    "countryiso3code": "COM",
+    "date": "2019",
+    "value": 1519.26386436068,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "CD",
+      "value": "Congo, Dem. Rep."
+    },
+    "countryiso3code": "COD",
+    "date": "2019",
+    "value": 504.00419142286,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "CG",
+      "value": "Congo, Rep."
+    },
+    "countryiso3code": "COG",
+    "date": "2019",
+    "value": 2488.42466724916,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "CR",
+      "value": "Costa Rica"
+    },
+    "countryiso3code": "CRI",
+    "date": "2019",
+    "value": 12951.8588421841,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "CI",
+      "value": "Cote d'Ivoire"
+    },
+    "countryiso3code": "CIV",
+    "date": "2019",
+    "value": 2141.76836170115,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "HR",
+      "value": "Croatia"
+    },
+    "countryiso3code": "HRV",
+    "date": "2019",
+    "value": 15563.7354996625,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "CU",
+      "value": "Cuba"
+    },
+    "countryiso3code": "CUB",
+    "date": "2019",
+    "value": 9232.26115935183,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "CW",
+      "value": "Curacao"
+    },
+    "countryiso3code": "CUW",
+    "date": "2019",
+    "value": 19220.6866958303,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "CY",
+      "value": "Cyprus"
+    },
+    "countryiso3code": "CYP",
+    "date": "2019",
+    "value": 29227.16796875,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "CZ",
+      "value": "Czechia"
+    },
+    "countryiso3code": "CZE",
+    "date": "2019",
+    "value": 24062.7190013343,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "DK",
+      "value": "Denmark"
+    },
+    "countryiso3code": "DNK",
+    "date": "2019",
+    "value": 59404.2663247723,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "DJ",
+      "value": "Djibouti"
+    },
+    "countryiso3code": "DJI",
+    "date": "2019",
+    "value": 2837.16902340932,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "DM",
+      "value": "Dominica"
+    },
+    "countryiso3code": "DMA",
+    "date": "2019",
+    "value": 9491.14995962374,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "DO",
+      "value": "Dominican Republic"
+    },
+    "countryiso3code": "DOM",
+    "date": "2019",
+    "value": 8183.01623600375,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "EC",
+      "value": "Ecuador"
+    },
+    "countryiso3code": "ECU",
+    "date": "2019",
+    "value": 6205.05765246766,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "EG",
+      "value": "Egypt, Arab Rep."
+    },
+    "countryiso3code": "EGY",
+    "date": "2019",
+    "value": 2962.98892023003,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "SV",
+      "value": "El Salvador"
+    },
+    "countryiso3code": "SLV",
+    "date": "2019",
+    "value": 4320.11671534627,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "GQ",
+      "value": "Equatorial Guinea"
+    },
+    "countryiso3code": "GNQ",
+    "date": "2019",
+    "value": 6804.14923073888,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "ER",
+      "value": "Eritrea"
+    },
+    "countryiso3code": "ERI",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "EE",
+      "value": "Estonia"
+    },
+    "countryiso3code": "EST",
+    "date": "2019",
+    "value": 24021.2501413306,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "SZ",
+      "value": "Eswatini"
+    },
+    "countryiso3code": "SWZ",
+    "date": "2019",
+    "value": 3913.14577547336,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "ET",
+      "value": "Ethiopia"
+    },
+    "countryiso3code": "ETH",
+    "date": "2019",
+    "value": 793.473247218996,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "FO",
+      "value": "Faroe Islands"
+    },
+    "countryiso3code": "FRO",
+    "date": "2019",
+    "value": 63070.7228080361,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "FJ",
+      "value": "Fiji"
+    },
+    "countryiso3code": "FJI",
+    "date": "2019",
+    "value": 5842.07344577597,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "FI",
+      "value": "Finland"
+    },
+    "countryiso3code": "FIN",
+    "date": "2019",
+    "value": 48358.1807773701,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "FR",
+      "value": "France"
+    },
+    "countryiso3code": "FRA",
+    "date": "2019",
+    "value": 40408.2848574751,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "PF",
+      "value": "French Polynesia"
+    },
+    "countryiso3code": "PYF",
+    "date": "2019",
+    "value": 21582.5892046801,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "GA",
+      "value": "Gabon"
+    },
+    "countryiso3code": "GAB",
+    "date": "2019",
+    "value": 7441.1786472281,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "GM",
+      "value": "Gambia, The"
+    },
+    "countryiso3code": "GMB",
+    "date": "2019",
+    "value": 738.186751987483,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "GE",
+      "value": "Georgia"
+    },
+    "countryiso3code": "GEO",
+    "date": "2019",
+    "value": 4741.2832715876,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "DE",
+      "value": "Germany"
+    },
+    "countryiso3code": "DEU",
+    "date": "2019",
+    "value": 47656.199739747,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "GH",
+      "value": "Ghana"
+    },
+    "countryiso3code": "GHA",
+    "date": "2019",
+    "value": 2186.65822682613,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "GI",
+      "value": "Gibraltar"
+    },
+    "countryiso3code": "GIB",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "GR",
+      "value": "Greece"
+    },
+    "countryiso3code": "GRC",
+    "date": "2019",
+    "value": 19335.3602002969,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "GL",
+      "value": "Greenland"
+    },
+    "countryiso3code": "GRL",
+    "date": "2019",
+    "value": 53309.2035905065,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "GD",
+      "value": "Grenada"
+    },
+    "countryiso3code": "GRD",
+    "date": "2019",
+    "value": 10462.7929159533,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "GU",
+      "value": "Guam"
+    },
+    "countryiso3code": "GUM",
+    "date": "2019",
+    "value": 39274.9431424899,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "GT",
+      "value": "Guatemala"
+    },
+    "countryiso3code": "GTM",
+    "date": "2019",
+    "value": 4511.99839552697,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "GN",
+      "value": "Guinea"
+    },
+    "countryiso3code": "GIN",
+    "date": "2019",
+    "value": 1031.34146480732,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "GW",
+      "value": "Guinea-Bissau"
+    },
+    "countryiso3code": "GNB",
+    "date": "2019",
+    "value": 811.210004050041,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "GY",
+      "value": "Guyana"
+    },
+    "countryiso3code": "GUY",
+    "date": "2019",
+    "value": 6405.82443444562,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "HT",
+      "value": "Haiti"
+    },
+    "countryiso3code": "HTI",
+    "date": "2019",
+    "value": 1352.17204191532,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "HN",
+      "value": "Honduras"
+    },
+    "countryiso3code": "HND",
+    "date": "2019",
+    "value": 2502.32744328073,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "HK",
+      "value": "Hong Kong SAR, China"
+    },
+    "countryiso3code": "HKG",
+    "date": "2019",
+    "value": 48359.0011950597,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "HU",
+      "value": "Hungary"
+    },
+    "countryiso3code": "HUN",
+    "date": "2019",
+    "value": 17012.8598553199,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "IS",
+      "value": "Iceland"
+    },
+    "countryiso3code": "ISL",
+    "date": "2019",
+    "value": 69296.3144361601,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "IN",
+      "value": "India"
+    },
+    "countryiso3code": "IND",
+    "date": "2019",
+    "value": 2041.42863698585,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "ID",
+      "value": "Indonesia"
+    },
+    "countryiso3code": "IDN",
+    "date": "2019",
+    "value": 4106.94856160358,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "IR",
+      "value": "Iran, Islamic Rep."
+    },
+    "countryiso3code": "IRN",
+    "date": "2019",
+    "value": 3997.4935449585,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "IQ",
+      "value": "Iraq"
+    },
+    "countryiso3code": "IRQ",
+    "date": "2019",
+    "value": 5671.8568632942,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "IE",
+      "value": "Ireland"
+    },
+    "countryiso3code": "IRL",
+    "date": "2019",
+    "value": 81827.6688873996,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "IM",
+      "value": "Isle of Man"
+    },
+    "countryiso3code": "IMN",
+    "date": "2019",
+    "value": 87127.5517977404,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "IL",
+      "value": "Israel"
+    },
+    "countryiso3code": "ISR",
+    "date": "2019",
+    "value": 44091.8678022544,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "IT",
+      "value": "Italy"
+    },
+    "countryiso3code": "ITA",
+    "date": "2019",
+    "value": 33812.788724868,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "JM",
+      "value": "Jamaica"
+    },
+    "countryiso3code": "JAM",
+    "date": "2019",
+    "value": 6030.68896415921,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "JP",
+      "value": "Japan"
+    },
+    "countryiso3code": "JPN",
+    "date": "2019",
+    "value": 41424.8655601543,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "JO",
+      "value": "Jordan"
+    },
+    "countryiso3code": "JOR",
+    "date": "2019",
+    "value": 4557.79334729121,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "KZ",
+      "value": "Kazakhstan"
+    },
+    "countryiso3code": "KAZ",
+    "date": "2019",
+    "value": 9457.12614657136,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "KE",
+      "value": "Kenya"
+    },
+    "countryiso3code": "KEN",
+    "date": "2019",
+    "value": 1960.40808854893,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "KI",
+      "value": "Kiribati"
+    },
+    "countryiso3code": "KIR",
+    "date": "2019",
+    "value": 1750.24040333237,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "KP",
+      "value": "Korea, Dem. People's Rep."
+    },
+    "countryiso3code": "PRK",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "KR",
+      "value": "Korea, Rep."
+    },
+    "countryiso3code": "KOR",
+    "date": "2019",
+    "value": 33826.9443301597,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "XK",
+      "value": "Kosovo"
+    },
+    "countryiso3code": "XKX",
+    "date": "2019",
+    "value": 4415.6992744623,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "KW",
+      "value": "Kuwait"
+    },
+    "countryiso3code": "KWT",
+    "date": "2019",
+    "value": 31707.8737443551,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "KG",
+      "value": "Kyrgyz Republic"
+    },
+    "countryiso3code": "KGZ",
+    "date": "2019",
+    "value": 1421.99927504102,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "LA",
+      "value": "Lao PDR"
+    },
+    "countryiso3code": "LAO",
+    "date": "2019",
+    "value": 2589.32081035237,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "LV",
+      "value": "Latvia"
+    },
+    "countryiso3code": "LVA",
+    "date": "2019",
+    "value": 17294.9751600969,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "LB",
+      "value": "Lebanon"
+    },
+    "countryiso3code": "LBN",
+    "date": "2019",
+    "value": 8905.88005497437,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "LS",
+      "value": "Lesotho"
+    },
+    "countryiso3code": "LSO",
+    "date": "2019",
+    "value": 1082.05706777516,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "LR",
+      "value": "Liberia"
+    },
+    "countryiso3code": "LBR",
+    "date": "2019",
+    "value": 658.164180770507,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "LY",
+      "value": "Libya"
+    },
+    "countryiso3code": "LBY",
+    "date": "2019",
+    "value": 9963.19489084483,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "LI",
+      "value": "Liechtenstein"
+    },
+    "countryiso3code": "LIE",
+    "date": "2019",
+    "value": 166907.839305016,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "LT",
+      "value": "Lithuania"
+    },
+    "countryiso3code": "LTU",
+    "date": "2019",
+    "value": 19608.7943945553,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "LU",
+      "value": "Luxembourg"
+    },
+    "countryiso3code": "LUX",
+    "date": "2019",
+    "value": 112696.649059674,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "MO",
+      "value": "Macao SAR, China"
+    },
+    "countryiso3code": "MAC",
+    "date": "2019",
+    "value": 81882.6964523869,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "MG",
+      "value": "Madagascar"
+    },
+    "countryiso3code": "MDG",
+    "date": "2019",
+    "value": 499.818837622534,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "MW",
+      "value": "Malawi"
+    },
+    "countryiso3code": "MWI",
+    "date": "2019",
+    "value": 580.889139762475,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "MY",
+      "value": "Malaysia"
+    },
+    "countryiso3code": "MYS",
+    "date": "2019",
+    "value": 10920.191763972,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "MV",
+      "value": "Maldives"
+    },
+    "countryiso3code": "MDV",
+    "date": "2019",
+    "value": 11740.2724029785,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "ML",
+      "value": "Mali"
+    },
+    "countryiso3code": "MLI",
+    "date": "2019",
+    "value": 971.949318638092,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "MT",
+      "value": "Malta"
+    },
+    "countryiso3code": "MLT",
+    "date": "2019",
+    "value": 32421.9087471186,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "MH",
+      "value": "Marshall Islands"
+    },
+    "countryiso3code": "MHL",
+    "date": "2019",
+    "value": 5292.33985502306,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "MR",
+      "value": "Mauritania"
+    },
+    "countryiso3code": "MRT",
+    "date": "2019",
+    "value": 1767.072710621,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "MU",
+      "value": "Mauritius"
+    },
+    "countryiso3code": "MUS",
+    "date": "2019",
+    "value": 11568.2533399824,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2019",
+    "value": 10369.5553593527,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "FM",
+      "value": "Micronesia, Fed. Sts."
+    },
+    "countryiso3code": "FSM",
+    "date": "2019",
+    "value": 3581.72684572278,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "MD",
+      "value": "Moldova"
+    },
+    "countryiso3code": "MDA",
+    "date": "2019",
+    "value": 4405.33418162155,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "MC",
+      "value": "Monaco"
+    },
+    "countryiso3code": "MCO",
+    "date": "2019",
+    "value": 193746.729890885,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "MN",
+      "value": "Mongolia"
+    },
+    "countryiso3code": "MNG",
+    "date": "2019",
+    "value": 4347.54610314873,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "ME",
+      "value": "Montenegro"
+    },
+    "countryiso3code": "MNE",
+    "date": "2019",
+    "value": 8749.25629734676,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "MA",
+      "value": "Morocco"
+    },
+    "countryiso3code": "MAR",
+    "date": "2019",
+    "value": 3508.09765625,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "MZ",
+      "value": "Mozambique"
+    },
+    "countryiso3code": "MOZ",
+    "date": "2019",
+    "value": 519.09255091362,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "MM",
+      "value": "Myanmar"
+    },
+    "countryiso3code": "MMR",
+    "date": "2019",
+    "value": 1425.98954211903,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "NA",
+      "value": "Namibia"
+    },
+    "countryiso3code": "NAM",
+    "date": "2019",
+    "value": 4731.9210318831,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "NR",
+      "value": "Naoero"
+    },
+    "countryiso3code": "NRU",
+    "date": "2019",
+    "value": 10801.7705659635,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "NP",
+      "value": "Nepal"
+    },
+    "countryiso3code": "NPL",
+    "date": "2019",
+    "value": 1203.14294706401,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "NL",
+      "value": "Netherlands"
+    },
+    "countryiso3code": "NLD",
+    "date": "2019",
+    "value": 53554.9007491475,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "NC",
+      "value": "New Caledonia"
+    },
+    "countryiso3code": "NCL",
+    "date": "2019",
+    "value": 33411.3358835672,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "NZ",
+      "value": "New Zealand"
+    },
+    "countryiso3code": "NZL",
+    "date": "2019",
+    "value": 42872.2681243427,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "NI",
+      "value": "Nicaragua"
+    },
+    "countryiso3code": "NIC",
+    "date": "2019",
+    "value": 1958.62051528095,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "NE",
+      "value": "Niger"
+    },
+    "countryiso3code": "NER",
+    "date": "2019",
+    "value": 541.265819870273,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "NG",
+      "value": "Nigeria"
+    },
+    "countryiso3code": "NGA",
+    "date": "2019",
+    "value": 3189.81286496183,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "MK",
+      "value": "North Macedonia"
+    },
+    "countryiso3code": "MKD",
+    "date": "2019",
+    "value": 6718.85826635458,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "MP",
+      "value": "Northern Mariana Islands"
+    },
+    "countryiso3code": "MNP",
+    "date": "2019",
+    "value": 24496.6652122421,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "NO",
+      "value": "Norway"
+    },
+    "countryiso3code": "NOR",
+    "date": "2019",
+    "value": 79329.3075190012,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "OM",
+      "value": "Oman"
+    },
+    "countryiso3code": "OMN",
+    "date": "2019",
+    "value": 19180.1864152801,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "PK",
+      "value": "Pakistan"
+    },
+    "countryiso3code": "PAK",
+    "date": "2019",
+    "value": 1390.41690981745,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "PW",
+      "value": "Palau"
+    },
+    "countryiso3code": "PLW",
+    "date": "2019",
+    "value": 15841.8923474548,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "PA",
+      "value": "Panama"
+    },
+    "countryiso3code": "PAN",
+    "date": "2019",
+    "value": 16477.9066285687,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "PG",
+      "value": "Papua New Guinea"
+    },
+    "countryiso3code": "PNG",
+    "date": "2019",
+    "value": 2575.77274140393,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "PY",
+      "value": "Paraguay"
+    },
+    "countryiso3code": "PRY",
+    "date": "2019",
+    "value": 5821.18199548637,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2019",
+    "value": 7037.00803692604,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "PH",
+      "value": "Philippines"
+    },
+    "countryiso3code": "PHL",
+    "date": "2019",
+    "value": 3400.78949767074,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "PL",
+      "value": "Poland"
+    },
+    "countryiso3code": "POL",
+    "date": "2019",
+    "value": 15874.5220531254,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "PT",
+      "value": "Portugal"
+    },
+    "countryiso3code": "PRT",
+    "date": "2019",
+    "value": 23343.3628970034,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "PR",
+      "value": "Puerto Rico (US)"
+    },
+    "countryiso3code": "PRI",
+    "date": "2019",
+    "value": 31830.5284993358,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "QA",
+      "value": "Qatar"
+    },
+    "countryiso3code": "QAT",
+    "date": "2019",
+    "value": 66841.3013484919,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "RO",
+      "value": "Romania"
+    },
+    "countryiso3code": "ROU",
+    "date": "2019",
+    "value": 12909.6104013244,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "RU",
+      "value": "Russian Federation"
+    },
+    "countryiso3code": "RUS",
+    "date": "2019",
+    "value": 11447.701171875,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "RW",
+      "value": "Rwanda"
+    },
+    "countryiso3code": "RWA",
+    "date": "2019",
+    "value": 823.355304065304,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "WS",
+      "value": "Samoa"
+    },
+    "countryiso3code": "WSM",
+    "date": "2019",
+    "value": 4351.94234943706,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "SM",
+      "value": "San Marino"
+    },
+    "countryiso3code": "SMR",
+    "date": "2019",
+    "value": 46626.9998571568,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "ST",
+      "value": "Sao Tome and Principe"
+    },
+    "countryiso3code": "STP",
+    "date": "2019",
+    "value": 1935.2931816596,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "SA",
+      "value": "Saudi Arabia"
+    },
+    "countryiso3code": "SAU",
+    "date": "2019",
+    "value": 29566.7933827436,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "SN",
+      "value": "Senegal"
+    },
+    "countryiso3code": "SEN",
+    "date": "2019",
+    "value": 1431.18128932159,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "RS",
+      "value": "Serbia"
+    },
+    "countryiso3code": "SRB",
+    "date": "2019",
+    "value": 7755.632986437,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "SC",
+      "value": "Seychelles"
+    },
+    "countryiso3code": "SYC",
+    "date": "2019",
+    "value": 19141.5118743615,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "SL",
+      "value": "Sierra Leone"
+    },
+    "countryiso3code": "SLE",
+    "date": "2019",
+    "value": 843.71251730417,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "SG",
+      "value": "Singapore"
+    },
+    "countryiso3code": "SGP",
+    "date": "2019",
+    "value": 66068.7003106378,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "SX",
+      "value": "Sint Maarten (Dutch part)"
+    },
+    "countryiso3code": "SXM",
+    "date": "2019",
+    "value": 34861.469528968,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "SK",
+      "value": "Slovak Republic"
+    },
+    "countryiso3code": "SVK",
+    "date": "2019",
+    "value": 19406.0589683582,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "SI",
+      "value": "Slovenia"
+    },
+    "countryiso3code": "SVN",
+    "date": "2019",
+    "value": 25814.1687167572,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "SB",
+      "value": "Solomon Islands"
+    },
+    "countryiso3code": "SLB",
+    "date": "2019",
+    "value": 2223.65890942466,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "SO",
+      "value": "Somalia, Fed. Rep."
+    },
+    "countryiso3code": "SOM",
+    "date": "2019",
+    "value": 539.954816211694,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "ZA",
+      "value": "South Africa"
+    },
+    "countryiso3code": "ZAF",
+    "date": "2019",
+    "value": 6533.71121032856,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "SS",
+      "value": "South Sudan"
+    },
+    "countryiso3code": "SSD",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "ES",
+      "value": "Spain"
+    },
+    "countryiso3code": "ESP",
+    "date": "2019",
+    "value": 29786.5245689007,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "LK",
+      "value": "Sri Lanka"
+    },
+    "countryiso3code": "LKA",
+    "date": "2019",
+    "value": 4081.94772178134,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "KN",
+      "value": "St. Kitts and Nevis"
+    },
+    "countryiso3code": "KNA",
+    "date": "2019",
+    "value": 23595.4923231291,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "LC",
+      "value": "St. Lucia"
+    },
+    "countryiso3code": "LCA",
+    "date": "2019",
+    "value": 11764.3944032403,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "MF",
+      "value": "St. Martin (French part)"
+    },
+    "countryiso3code": "MAF",
+    "date": "2019",
+    "value": 19033.0649634889,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "VC",
+      "value": "St. Vincent and the Grenadines"
+    },
+    "countryiso3code": "VCT",
+    "date": "2019",
+    "value": 8740.59425232061,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "SD",
+      "value": "Sudan"
+    },
+    "countryiso3code": "SDN",
+    "date": "2019",
+    "value": 709.975280761719,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "SR",
+      "value": "Suriname"
+    },
+    "countryiso3code": "SUR",
+    "date": "2019",
+    "value": 6629.66775248603,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "countryiso3code": "SWE",
+    "date": "2019",
+    "value": 51648.9892820514,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "CH",
+      "value": "Switzerland"
+    },
+    "countryiso3code": "CHE",
+    "date": "2019",
+    "value": 85872.9702303454,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "SY",
+      "value": "Syrian Arab Republic"
+    },
+    "countryiso3code": "SYR",
+    "date": "2019",
+    "value": 1109.53933821464,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "TJ",
+      "value": "Tajikistan"
+    },
+    "countryiso3code": "TJK",
+    "date": "2019",
+    "value": 871.022372934846,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "TZ",
+      "value": "Tanzania"
+    },
+    "countryiso3code": "TZA",
+    "date": "2019",
+    "value": 1063.32250976563,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "TH",
+      "value": "Thailand"
+    },
+    "countryiso3code": "THA",
+    "date": "2019",
+    "value": 7605.69657797759,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "TL",
+      "value": "Timor-Leste"
+    },
+    "countryiso3code": "TLS",
+    "date": "2019",
+    "value": 1562.36458881813,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "TG",
+      "value": "Togo"
+    },
+    "countryiso3code": "TGO",
+    "date": "2019",
+    "value": 917.718016777619,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "TO",
+      "value": "Tonga"
+    },
+    "countryiso3code": "TON",
+    "date": "2019",
+    "value": 4788.83350468584,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "TT",
+      "value": "Trinidad and Tobago"
+    },
+    "countryiso3code": "TTO",
+    "date": "2019",
+    "value": 17212.6128892163,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "TN",
+      "value": "Tunisia"
+    },
+    "countryiso3code": "TUN",
+    "date": "2019",
+    "value": 3528.87213306798,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "TR",
+      "value": "Turkiye"
+    },
+    "countryiso3code": "TUR",
+    "date": "2019",
+    "value": 9395.23378001368,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "TM",
+      "value": "Turkmenistan"
+    },
+    "countryiso3code": "TKM",
+    "date": "2019",
+    "value": 4365.1152919542,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "TC",
+      "value": "Turks and Caicos Islands"
+    },
+    "countryiso3code": "TCA",
+    "date": "2019",
+    "value": 31780.5217068989,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "TV",
+      "value": "Tuvalu"
+    },
+    "countryiso3code": "TUV",
+    "date": "2019",
+    "value": 5058.85266607659,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "UG",
+      "value": "Uganda"
+    },
+    "countryiso3code": "UGA",
+    "date": "2019",
+    "value": 822.171150036357,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "UA",
+      "value": "Ukraine"
+    },
+    "countryiso3code": "UKR",
+    "date": "2019",
+    "value": 3619.86157226563,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "AE",
+      "value": "United Arab Emirates"
+    },
+    "countryiso3code": "ARE",
+    "date": "2019",
+    "value": 45938.6084572227,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "GB",
+      "value": "United Kingdom"
+    },
+    "countryiso3code": "GBR",
+    "date": "2019",
+    "value": 43160.6843971799,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "US",
+      "value": "United States"
+    },
+    "countryiso3code": "USA",
+    "date": "2019",
+    "value": 65227.9565911038,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "UY",
+      "value": "Uruguay"
+    },
+    "countryiso3code": "URY",
+    "date": "2019",
+    "value": 18315.7350377437,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "UZ",
+      "value": "Uzbekistan"
+    },
+    "countryiso3code": "UZB",
+    "date": "2019",
+    "value": 2128.66067138334,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "VU",
+      "value": "Vanuatu"
+    },
+    "countryiso3code": "VUT",
+    "date": "2019",
+    "value": 3635.62344878185,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "VE",
+      "value": "Venezuela, RB"
+    },
+    "countryiso3code": "VEN",
+    "date": "2019",
+    "value": 2523.11527549578,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "VN",
+      "value": "Viet Nam"
+    },
+    "countryiso3code": "VNM",
+    "date": "2019",
+    "value": 3440.90025375434,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "VI",
+      "value": "Virgin Islands (U.S.)"
+    },
+    "countryiso3code": "VIR",
+    "date": "2019",
+    "value": 38633.5298915336,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "PS",
+      "value": "West Bank and Gaza"
+    },
+    "countryiso3code": "PSE",
+    "date": "2019",
+    "value": 3656.85827137011,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "YE",
+      "value": "Yemen, Rep."
+    },
+    "countryiso3code": "YEM",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "ZM",
+      "value": "Zambia"
+    },
+    "countryiso3code": "ZMB",
+    "date": "2019",
+    "value": 1258.98619844462,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "ZW",
+      "value": "Zimbabwe"
+    },
+    "countryiso3code": "ZWE",
+    "date": "2019",
+    "value": 2184.52155388801,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  }
+]

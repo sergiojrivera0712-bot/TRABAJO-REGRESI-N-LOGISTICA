@@ -1,0 +1,25 @@
+{
+  "homocedasticidad_breusch_pagan": {
+    "estadistico_LM": 9.975570732594395,
+    "p_valor": 0.07593040519410665,
+    "grados_libertad": 5,
+    "interpretacion": "No se rechaza H0 (p > 0.05): no hay evidencia fuerte de heterocedasticidad."
+  },
+  "autocorrelacion_durbin_watson": {
+    "estadistico": 2.0447448598153852,
+    "interpretacion": "Cercano a 2 indica ausencia de autocorrelacion de primer orden."
+  },
+  "normalidad_residuos_shapiro_wilk": {
+    "estadistico": 0.9513762690442118,
+    "p_valor": 0.0007811000659783665,
+    "interpretacion": "Se rechaza H0 (p <= 0.05): los residuos se desvian de la normalidad."
+  },
+  "multicolinealidad_vif": {
+    "pib_per_capita": 6.25615056666642,
+    "gasto_salud_per_capita": 5.29399974767693,
+    "poblacion_urbana_pct": 2.208995832354773,
+    "matricula_secundaria_pct": 2.346239024790944,
+    "usuarios_internet_pct": 3.8483285585983067,
+    "interpretacion": "VIF > 10 sugiere multicolinealidad problematica; VIF > 5 amerita atencion."
+  }
+}

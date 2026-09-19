@@ -1,0 +1,9 @@
+variable,tipo,descripcion,fuente
+pais,texto,Nombre del pais,World Bank API /country
+iso3,texto,Codigo ISO 3166-1 alfa-3 del pais,World Bank API /country
+esperanza_vida,numerica continua,Esperanza de vida al nacer (anios),"World Bank API, indicador SP.DYN.LE00.IN"
+pib_per_capita,numerica continua,PIB per capita (US$ corrientes),"World Bank API, indicador NY.GDP.PCAP.CD"
+gasto_salud_per_capita,numerica continua,Gasto en salud per capita (US$ corrientes),"World Bank API, indicador SH.XPD.CHEX.PC.CD"
+poblacion_urbana_pct,numerica continua,Poblacion urbana (% del total),"World Bank API, indicador SP.URB.TOTL.IN.ZS"
+matricula_secundaria_pct,numerica continua,Matricula bruta en secundaria (%),"World Bank API, indicador SE.SEC.ENRR"
+usuarios_internet_pct,numerica continua,Usuarios de internet (% de la poblacion),"World Bank API, indicador IT.NET.USER.ZS"

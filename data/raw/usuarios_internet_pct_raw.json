@@ -1,0 +1,4258 @@
+[
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "ZH",
+      "value": "Africa Eastern and Southern"
+    },
+    "countryiso3code": "AFE",
+    "date": "2019",
+    "value": 21.6,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "ZI",
+      "value": "Africa Western and Central"
+    },
+    "countryiso3code": "AFW",
+    "date": "2019",
+    "value": 28.5,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "1A",
+      "value": "Arab World"
+    },
+    "countryiso3code": "ARB",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "S3",
+      "value": "Caribbean small states"
+    },
+    "countryiso3code": "CSS",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "B8",
+      "value": "Central Europe and the Baltics"
+    },
+    "countryiso3code": "CEB",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "V2",
+      "value": "Early-demographic dividend"
+    },
+    "countryiso3code": "EAR",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "Z4",
+      "value": "East Asia & Pacific"
+    },
+    "countryiso3code": "EAS",
+    "date": "2019",
+    "value": 67.1,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "4E",
+      "value": "East Asia & Pacific (excluding high income)"
+    },
+    "countryiso3code": "EAP",
+    "date": "2019",
+    "value": 64,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "T4",
+      "value": "East Asia & Pacific (IDA & IBRD countries)"
+    },
+    "countryiso3code": "TEA",
+    "date": "2019",
+    "value": 64.3,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "XC",
+      "value": "Euro area"
+    },
+    "countryiso3code": "EMU",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "Z7",
+      "value": "Europe & Central Asia"
+    },
+    "countryiso3code": "ECS",
+    "date": "2019",
+    "value": 80.3,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "7E",
+      "value": "Europe & Central Asia (excluding high income)"
+    },
+    "countryiso3code": "ECA",
+    "date": "2019",
+    "value": 70.3,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "T7",
+      "value": "Europe & Central Asia (IDA & IBRD countries)"
+    },
+    "countryiso3code": "TEC",
+    "date": "2019",
+    "value": 75.2,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "EU",
+      "value": "European Union"
+    },
+    "countryiso3code": "EUU",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "F1",
+      "value": "Fragile and conflict affected situations"
+    },
+    "countryiso3code": "FCS",
+    "date": "2019",
+    "value": 26.6,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "XE",
+      "value": "Heavily indebted poor countries (HIPC)"
+    },
+    "countryiso3code": "HPC",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "XD",
+      "value": "High income"
+    },
+    "countryiso3code": "",
+    "date": "2019",
+    "value": 87.5,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "XF",
+      "value": "IBRD only"
+    },
+    "countryiso3code": "IBD",
+    "date": "2019",
+    "value": 56.3,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "ZT",
+      "value": "IDA & IBRD total"
+    },
+    "countryiso3code": "IBT",
+    "date": "2019",
+    "value": 47.8,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "XH",
+      "value": "IDA blend"
+    },
+    "countryiso3code": "IDB",
+    "date": "2019",
+    "value": 26.9,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "XI",
+      "value": "IDA only"
+    },
+    "countryiso3code": "IDX",
+    "date": "2019",
+    "value": 22.8,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "XG",
+      "value": "IDA total"
+    },
+    "countryiso3code": "IDA",
+    "date": "2019",
+    "value": 24.2,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "V3",
+      "value": "Late-demographic dividend"
+    },
+    "countryiso3code": "LTE",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "ZJ",
+      "value": "Latin America & Caribbean"
+    },
+    "countryiso3code": "LCN",
+    "date": "2019",
+    "value": 67.8,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "XJ",
+      "value": "Latin America & Caribbean (excluding high income)"
+    },
+    "countryiso3code": "LAC",
+    "date": "2019",
+    "value": 67.9,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "T2",
+      "value": "Latin America & the Caribbean (IDA & IBRD countries)"
+    },
+    "countryiso3code": "TLA",
+    "date": "2019",
+    "value": 67.7,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "XL",
+      "value": "Least developed countries: UN classification"
+    },
+    "countryiso3code": "LDC",
+    "date": "2019",
+    "value": 21.2,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "XO",
+      "value": "Low & middle income"
+    },
+    "countryiso3code": "LMY",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "XM",
+      "value": "Low income"
+    },
+    "countryiso3code": "",
+    "date": "2019",
+    "value": 16.4,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "XN",
+      "value": "Lower middle income"
+    },
+    "countryiso3code": "",
+    "date": "2019",
+    "value": 33.4,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "ZQ",
+      "value": "Middle East, North Africa, Afghanistan & Pakistan"
+    },
+    "countryiso3code": "MEA",
+    "date": "2019",
+    "value": 46,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "XQ",
+      "value": "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)"
+    },
+    "countryiso3code": "MNA",
+    "date": "2019",
+    "value": 41.5,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "T3",
+      "value": "Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)"
+    },
+    "countryiso3code": "TMN",
+    "date": "2019",
+    "value": 41.3,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "XP",
+      "value": "Middle income"
+    },
+    "countryiso3code": "MIC",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "XU",
+      "value": "North America"
+    },
+    "countryiso3code": "NAC",
+    "date": "2019",
+    "value": 89.7,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "XY",
+      "value": "Not classified"
+    },
+    "countryiso3code": "",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "OE",
+      "value": "OECD members"
+    },
+    "countryiso3code": "OED",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "S4",
+      "value": "Other small states"
+    },
+    "countryiso3code": "OSS",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "S2",
+      "value": "Pacific island small states"
+    },
+    "countryiso3code": "PSS",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "V4",
+      "value": "Post-demographic dividend"
+    },
+    "countryiso3code": "PST",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "V1",
+      "value": "Pre-demographic dividend"
+    },
+    "countryiso3code": "PRE",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "S1",
+      "value": "Small states"
+    },
+    "countryiso3code": "SST",
+    "date": "2019",
+    "value": 62.1,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "8S",
+      "value": "South Asia"
+    },
+    "countryiso3code": "SAS",
+    "date": "2019",
+    "value": 29.7,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "T5",
+      "value": "South Asia (IDA & IBRD)"
+    },
+    "countryiso3code": "TSA",
+    "date": "2019",
+    "value": 29.7,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "ZG",
+      "value": "Sub-Saharan Africa"
+    },
+    "countryiso3code": "SSF",
+    "date": "2019",
+    "value": 24.4,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "ZF",
+      "value": "Sub-Saharan Africa (excluding high income)"
+    },
+    "countryiso3code": "SSA",
+    "date": "2019",
+    "value": 25.3,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "T6",
+      "value": "Sub-Saharan Africa (IDA & IBRD countries)"
+    },
+    "countryiso3code": "TSS",
+    "date": "2019",
+    "value": 24.4,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "XT",
+      "value": "Upper middle income"
+    },
+    "countryiso3code": "",
+    "date": "2019",
+    "value": 67.5,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "1W",
+      "value": "World"
+    },
+    "countryiso3code": "WLD",
+    "date": "2019",
+    "value": 53.9,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "AF",
+      "value": "Afghanistan"
+    },
+    "countryiso3code": "AFG",
+    "date": "2019",
+    "value": 17.60000038,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "AL",
+      "value": "Albania"
+    },
+    "countryiso3code": "ALB",
+    "date": "2019",
+    "value": 68.5503911218006,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "DZ",
+      "value": "Algeria"
+    },
+    "countryiso3code": "DZA",
+    "date": "2019",
+    "value": 55.79069901,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "AS",
+      "value": "American Samoa"
+    },
+    "countryiso3code": "ASM",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "AD",
+      "value": "Andorra"
+    },
+    "countryiso3code": "AND",
+    "date": "2019",
+    "value": 90.71869659,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "AO",
+      "value": "Angola"
+    },
+    "countryiso3code": "AGO",
+    "date": "2019",
+    "value": 32.12939835,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "AG",
+      "value": "Antigua and Barbuda"
+    },
+    "countryiso3code": "ATG",
+    "date": "2019",
+    "value": 71.09259796,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "AR",
+      "value": "Argentina"
+    },
+    "countryiso3code": "ARG",
+    "date": "2019",
+    "value": 79.9469520347551,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "AM",
+      "value": "Armenia"
+    },
+    "countryiso3code": "ARM",
+    "date": "2019",
+    "value": 66.5439496866159,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "AW",
+      "value": "Aruba"
+    },
+    "countryiso3code": "ABW",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "AU",
+      "value": "Australia"
+    },
+    "countryiso3code": "AUS",
+    "date": "2019",
+    "value": 93.60990143,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "AT",
+      "value": "Austria"
+    },
+    "countryiso3code": "AUT",
+    "date": "2019",
+    "value": 87.7522047870069,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "AZ",
+      "value": "Azerbaijan"
+    },
+    "countryiso3code": "AZE",
+    "date": "2019",
+    "value": 81.0999990651547,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "BS",
+      "value": "Bahamas, The"
+    },
+    "countryiso3code": "BHS",
+    "date": "2019",
+    "value": 90.69329834,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "BH",
+      "value": "Bahrain"
+    },
+    "countryiso3code": "BHR",
+    "date": "2019",
+    "value": 99.7015043807778,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "BD",
+      "value": "Bangladesh"
+    },
+    "countryiso3code": "BGD",
+    "date": "2019",
+    "value": 30.38310051,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "BB",
+      "value": "Barbados"
+    },
+    "countryiso3code": "BRB",
+    "date": "2019",
+    "value": 70.30709839,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "BY",
+      "value": "Belarus"
+    },
+    "countryiso3code": "BLR",
+    "date": "2019",
+    "value": 82.7891520910901,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "BE",
+      "value": "Belgium"
+    },
+    "countryiso3code": "BEL",
+    "date": "2019",
+    "value": 90.275428012141,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "BZ",
+      "value": "Belize"
+    },
+    "countryiso3code": "BLZ",
+    "date": "2019",
+    "value": 58.76520157,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "BJ",
+      "value": "Benin"
+    },
+    "countryiso3code": "BEN",
+    "date": "2019",
+    "value": 20.50099945,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "BM",
+      "value": "Bermuda"
+    },
+    "countryiso3code": "BMU",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "BT",
+      "value": "Bhutan"
+    },
+    "countryiso3code": "BTN",
+    "date": "2019",
+    "value": 74.17939758,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "BO",
+      "value": "Bolivia"
+    },
+    "countryiso3code": "BOL",
+    "date": "2019",
+    "value": 47.4748191121692,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "BA",
+      "value": "Bosnia and Herzegovina"
+    },
+    "countryiso3code": "BIH",
+    "date": "2019",
+    "value": 69.9463476317266,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "BW",
+      "value": "Botswana"
+    },
+    "countryiso3code": "BWA",
+    "date": "2019",
+    "value": 48.82279968,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2019",
+    "value": 73.9124399133589,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "VG",
+      "value": "British Virgin Islands"
+    },
+    "countryiso3code": "VGB",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "BN",
+      "value": "Brunei Darussalam"
+    },
+    "countryiso3code": "BRN",
+    "date": "2019",
+    "value": 95,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "BG",
+      "value": "Bulgaria"
+    },
+    "countryiso3code": "BGR",
+    "date": "2019",
+    "value": 67.9469809417603,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "BF",
+      "value": "Burkina Faso"
+    },
+    "countryiso3code": "BFA",
+    "date": "2019",
+    "value": 9.27180600953186,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "BI",
+      "value": "Burundi"
+    },
+    "countryiso3code": "BDI",
+    "date": "2019",
+    "value": 6.072199821,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "CV",
+      "value": "Cabo Verde"
+    },
+    "countryiso3code": "CPV",
+    "date": "2019",
+    "value": 61.9433977593088,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "KH",
+      "value": "Cambodia"
+    },
+    "countryiso3code": "KHM",
+    "date": "2019",
+    "value": 52.305878224498,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "CM",
+      "value": "Cameroon"
+    },
+    "countryiso3code": "CMR",
+    "date": "2019",
+    "value": 36.53919983,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "CA",
+      "value": "Canada"
+    },
+    "countryiso3code": "CAN",
+    "date": "2019",
+    "value": 91.91290283,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "KY",
+      "value": "Cayman Islands"
+    },
+    "countryiso3code": "CYM",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "CF",
+      "value": "Central African Republic"
+    },
+    "countryiso3code": "CAF",
+    "date": "2019",
+    "value": 7.509200096,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "TD",
+      "value": "Chad"
+    },
+    "countryiso3code": "TCD",
+    "date": "2019",
+    "value": 7.618199825,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "JG",
+      "value": "Channel Islands"
+    },
+    "countryiso3code": "CHI",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2019",
+    "value": 85.01760101,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "CN",
+      "value": "China"
+    },
+    "countryiso3code": "CHN",
+    "date": "2019",
+    "value": 64.080881297515,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2019",
+    "value": 65.0069007159493,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "KM",
+      "value": "Comoros"
+    },
+    "countryiso3code": "COM",
+    "date": "2019",
+    "value": 16.38380051,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "CD",
+      "value": "Congo, Dem. Rep."
+    },
+    "countryiso3code": "COD",
+    "date": "2019",
+    "value": 13.02970028,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "CG",
+      "value": "Congo, Rep."
+    },
+    "countryiso3code": "COG",
+    "date": "2019",
+    "value": 16.11639977,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "CR",
+      "value": "Costa Rica"
+    },
+    "countryiso3code": "CRI",
+    "date": "2019",
+    "value": 81.2025964435269,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "CI",
+      "value": "Cote d'Ivoire"
+    },
+    "countryiso3code": "CIV",
+    "date": "2019",
+    "value": 36.2889545655205,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "HR",
+      "value": "Croatia"
+    },
+    "countryiso3code": "HRV",
+    "date": "2019",
+    "value": 79.0797836757554,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "CU",
+      "value": "Cuba"
+    },
+    "countryiso3code": "CUB",
+    "date": "2019",
+    "value": 67.9708086565152,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "CW",
+      "value": "Curacao"
+    },
+    "countryiso3code": "CUW",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "CY",
+      "value": "Cyprus"
+    },
+    "countryiso3code": "CYP",
+    "date": "2019",
+    "value": 86.0636299618935,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "CZ",
+      "value": "Czechia"
+    },
+    "countryiso3code": "CZE",
+    "date": "2019",
+    "value": 80.8669444139622,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "DK",
+      "value": "Denmark"
+    },
+    "countryiso3code": "DNK",
+    "date": "2019",
+    "value": 98.0464347521549,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "DJ",
+      "value": "Djibouti"
+    },
+    "countryiso3code": "DJI",
+    "date": "2019",
+    "value": 58.4762001,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "DM",
+      "value": "Dominica"
+    },
+    "countryiso3code": "DMA",
+    "date": "2019",
+    "value": 73.38200378,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "DO",
+      "value": "Dominican Republic"
+    },
+    "countryiso3code": "DOM",
+    "date": "2019",
+    "value": 79.71549988,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "EC",
+      "value": "Ecuador"
+    },
+    "countryiso3code": "ECU",
+    "date": "2019",
+    "value": 59.2,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "EG",
+      "value": "Egypt, Arab Rep."
+    },
+    "countryiso3code": "EGY",
+    "date": "2019",
+    "value": 57.2828663990195,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "SV",
+      "value": "El Salvador"
+    },
+    "countryiso3code": "SLV",
+    "date": "2019",
+    "value": 50.4911940673888,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "GQ",
+      "value": "Equatorial Guinea"
+    },
+    "countryiso3code": "GNQ",
+    "date": "2019",
+    "value": 49.13370132,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "ER",
+      "value": "Eritrea"
+    },
+    "countryiso3code": "ERI",
+    "date": "2019",
+    "value": 11.22379971,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "EE",
+      "value": "Estonia"
+    },
+    "countryiso3code": "EST",
+    "date": "2019",
+    "value": 90.2289281997919,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "SZ",
+      "value": "Eswatini"
+    },
+    "countryiso3code": "SWZ",
+    "date": "2019",
+    "value": 43.93389893,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "ET",
+      "value": "Ethiopia"
+    },
+    "countryiso3code": "ETH",
+    "date": "2019",
+    "value": 15.98460007,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "FO",
+      "value": "Faroe Islands"
+    },
+    "countryiso3code": "FRO",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "FJ",
+      "value": "Fiji"
+    },
+    "countryiso3code": "FJI",
+    "date": "2019",
+    "value": 63.21789932,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "FI",
+      "value": "Finland"
+    },
+    "countryiso3code": "FIN",
+    "date": "2019",
+    "value": 89.6073851129779,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "FR",
+      "value": "France"
+    },
+    "countryiso3code": "FRA",
+    "date": "2019",
+    "value": 83.3397440866883,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "PF",
+      "value": "French Polynesia"
+    },
+    "countryiso3code": "PYF",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "GA",
+      "value": "Gabon"
+    },
+    "countryiso3code": "GAB",
+    "date": "2019",
+    "value": 59.51760101,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "GM",
+      "value": "Gambia, The"
+    },
+    "countryiso3code": "GMB",
+    "date": "2019",
+    "value": 31.11829948,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "GE",
+      "value": "Georgia"
+    },
+    "countryiso3code": "GEO",
+    "date": "2019",
+    "value": 68.8467135616978,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "DE",
+      "value": "Germany"
+    },
+    "countryiso3code": "DEU",
+    "date": "2019",
+    "value": 88.1345169091916,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "GH",
+      "value": "Ghana"
+    },
+    "countryiso3code": "GHA",
+    "date": "2019",
+    "value": 22.0732,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "GI",
+      "value": "Gibraltar"
+    },
+    "countryiso3code": "GIB",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "GR",
+      "value": "Greece"
+    },
+    "countryiso3code": "GRC",
+    "date": "2019",
+    "value": 75.6712066931757,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "GL",
+      "value": "Greenland"
+    },
+    "countryiso3code": "GRL",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "GD",
+      "value": "Grenada"
+    },
+    "countryiso3code": "GRD",
+    "date": "2019",
+    "value": 64.31279755,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "GU",
+      "value": "Guam"
+    },
+    "countryiso3code": "GUM",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "GT",
+      "value": "Guatemala"
+    },
+    "countryiso3code": "GTM",
+    "date": "2019",
+    "value": 44.401049838502,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "GN",
+      "value": "Guinea"
+    },
+    "countryiso3code": "GIN",
+    "date": "2019",
+    "value": 23.89049911,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "GW",
+      "value": "Guinea-Bissau"
+    },
+    "countryiso3code": "GNB",
+    "date": "2019",
+    "value": 17.92149925,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "GY",
+      "value": "Guyana"
+    },
+    "countryiso3code": "GUY",
+    "date": "2019",
+    "value": 55.31269836,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "HT",
+      "value": "Haiti"
+    },
+    "countryiso3code": "HTI",
+    "date": "2019",
+    "value": 35.76409912,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "HN",
+      "value": "Honduras"
+    },
+    "countryiso3code": "HND",
+    "date": "2019",
+    "value": 39.3883521850111,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "HK",
+      "value": "Hong Kong SAR, China"
+    },
+    "countryiso3code": "HKG",
+    "date": "2019",
+    "value": 91.7434003891587,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "HU",
+      "value": "Hungary"
+    },
+    "countryiso3code": "HUN",
+    "date": "2019",
+    "value": 80.3716936050482,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "IS",
+      "value": "Iceland"
+    },
+    "countryiso3code": "ISL",
+    "date": "2019",
+    "value": 99.5049411693787,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "IN",
+      "value": "India"
+    },
+    "countryiso3code": "IND",
+    "date": "2019",
+    "value": 29.52350044,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "ID",
+      "value": "Indonesia"
+    },
+    "countryiso3code": "IDN",
+    "date": "2019",
+    "value": 47.6906489788375,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "IR",
+      "value": "Iran, Islamic Rep."
+    },
+    "countryiso3code": "IRN",
+    "date": "2019",
+    "value": 72.4509047672065,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "IQ",
+      "value": "Iraq"
+    },
+    "countryiso3code": "IRQ",
+    "date": "2019",
+    "value": 44.3263465511579,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "IE",
+      "value": "Ireland"
+    },
+    "countryiso3code": "IRL",
+    "date": "2019",
+    "value": 87.0000552425146,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "IM",
+      "value": "Isle of Man"
+    },
+    "countryiso3code": "IMN",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "IL",
+      "value": "Israel"
+    },
+    "countryiso3code": "ISR",
+    "date": "2019",
+    "value": 86.7878776180583,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "IT",
+      "value": "Italy"
+    },
+    "countryiso3code": "ITA",
+    "date": "2019",
+    "value": 67.8507102874836,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "JM",
+      "value": "Jamaica"
+    },
+    "countryiso3code": "JAM",
+    "date": "2019",
+    "value": 70.8410169743356,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "JP",
+      "value": "Japan"
+    },
+    "countryiso3code": "JPN",
+    "date": "2019",
+    "value": 92.7303978145525,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "JO",
+      "value": "Jordan"
+    },
+    "countryiso3code": "JOR",
+    "date": "2019",
+    "value": 70.08470154,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "KZ",
+      "value": "Kazakhstan"
+    },
+    "countryiso3code": "KAZ",
+    "date": "2019",
+    "value": 81.8776204746284,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "KE",
+      "value": "Kenya"
+    },
+    "countryiso3code": "KEN",
+    "date": "2019",
+    "value": 22.6687733618171,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "KI",
+      "value": "Kiribati"
+    },
+    "countryiso3code": "KIR",
+    "date": "2019",
+    "value": 41.79299927,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "KP",
+      "value": "Korea, Dem. People's Rep."
+    },
+    "countryiso3code": "PRK",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "KR",
+      "value": "Korea, Rep."
+    },
+    "countryiso3code": "KOR",
+    "date": "2019",
+    "value": 96.157579184239,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "XK",
+      "value": "Kosovo"
+    },
+    "countryiso3code": "XKX",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "KW",
+      "value": "Kuwait"
+    },
+    "countryiso3code": "KWT",
+    "date": "2019",
+    "value": 99.5426764518489,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "KG",
+      "value": "Kyrgyz Republic"
+    },
+    "countryiso3code": "KGZ",
+    "date": "2019",
+    "value": 64.1,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "LA",
+      "value": "Lao PDR"
+    },
+    "countryiso3code": "LAO",
+    "date": "2019",
+    "value": 47.03229904,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "LV",
+      "value": "Latvia"
+    },
+    "countryiso3code": "LVA",
+    "date": "2019",
+    "value": 86.13545644343,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "LB",
+      "value": "Lebanon"
+    },
+    "countryiso3code": "LBN",
+    "date": "2019",
+    "value": 81.48120117,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "LS",
+      "value": "Lesotho"
+    },
+    "countryiso3code": "LSO",
+    "date": "2019",
+    "value": 42.301733569273,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "LR",
+      "value": "Liberia"
+    },
+    "countryiso3code": "LBR",
+    "date": "2019",
+    "value": 19.89579964,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "LY",
+      "value": "Libya"
+    },
+    "countryiso3code": "LBY",
+    "date": "2019",
+    "value": 71.40409851,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "LI",
+      "value": "Liechtenstein"
+    },
+    "countryiso3code": "LIE",
+    "date": "2019",
+    "value": 93.14610291,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "LT",
+      "value": "Lithuania"
+    },
+    "countryiso3code": "LTU",
+    "date": "2019",
+    "value": 81.5818683764046,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "LU",
+      "value": "Luxembourg"
+    },
+    "countryiso3code": "LUX",
+    "date": "2019",
+    "value": 97.120635693272,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "MO",
+      "value": "Macao SAR, China"
+    },
+    "countryiso3code": "MAC",
+    "date": "2019",
+    "value": 86.4679257062588,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "MG",
+      "value": "Madagascar"
+    },
+    "countryiso3code": "MDG",
+    "date": "2019",
+    "value": 9.379400253,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "MW",
+      "value": "Malawi"
+    },
+    "countryiso3code": "MWI",
+    "date": "2019",
+    "value": 11.05860043,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "MY",
+      "value": "Malaysia"
+    },
+    "countryiso3code": "MYS",
+    "date": "2019",
+    "value": 84.1871450078281,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "MV",
+      "value": "Maldives"
+    },
+    "countryiso3code": "MDV",
+    "date": "2019",
+    "value": 77.46970367,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "ML",
+      "value": "Mali"
+    },
+    "countryiso3code": "MLI",
+    "date": "2019",
+    "value": 24.96030045,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "MT",
+      "value": "Malta"
+    },
+    "countryiso3code": "MLT",
+    "date": "2019",
+    "value": 85.7785963798031,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "MH",
+      "value": "Marshall Islands"
+    },
+    "countryiso3code": "MHL",
+    "date": "2019",
+    "value": 49.75749969,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "MR",
+      "value": "Mauritania"
+    },
+    "countryiso3code": "MRT",
+    "date": "2019",
+    "value": 25.0977993,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "MU",
+      "value": "Mauritius"
+    },
+    "countryiso3code": "MUS",
+    "date": "2019",
+    "value": 61.7299551453346,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2019",
+    "value": 69.6321092705209,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "FM",
+      "value": "Micronesia, Fed. Sts."
+    },
+    "countryiso3code": "FSM",
+    "date": "2019",
+    "value": 37.97370148,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "MD",
+      "value": "Moldova"
+    },
+    "countryiso3code": "MDA",
+    "date": "2019",
+    "value": 73.32610321,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "MC",
+      "value": "Monaco"
+    },
+    "countryiso3code": "MCO",
+    "date": "2019",
+    "value": 98,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "MN",
+      "value": "Mongolia"
+    },
+    "countryiso3code": "MNG",
+    "date": "2019",
+    "value": 51.079994082603,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "ME",
+      "value": "Montenegro"
+    },
+    "countryiso3code": "MNE",
+    "date": "2019",
+    "value": 73.4766657478691,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "MA",
+      "value": "Morocco"
+    },
+    "countryiso3code": "MAR",
+    "date": "2019",
+    "value": 84.1203630467602,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "MZ",
+      "value": "Mozambique"
+    },
+    "countryiso3code": "MOZ",
+    "date": "2019",
+    "value": 12.47929955,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "MM",
+      "value": "Myanmar"
+    },
+    "countryiso3code": "MMR",
+    "date": "2019",
+    "value": 36.54050064,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "NA",
+      "value": "Namibia"
+    },
+    "countryiso3code": "NAM",
+    "date": "2019",
+    "value": 49.77590179,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "NR",
+      "value": "Nauru"
+    },
+    "countryiso3code": "NRU",
+    "date": "2019",
+    "value": 74.73789978,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "NP",
+      "value": "Nepal"
+    },
+    "countryiso3code": "NPL",
+    "date": "2019",
+    "value": 33.33660126,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "NL",
+      "value": "Netherlands"
+    },
+    "countryiso3code": "NLD",
+    "date": "2019",
+    "value": 93.2885906040269,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "NC",
+      "value": "New Caledonia"
+    },
+    "countryiso3code": "NCL",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "NZ",
+      "value": "New Zealand"
+    },
+    "countryiso3code": "NZL",
+    "date": "2019",
+    "value": 89.86370087,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "NI",
+      "value": "Nicaragua"
+    },
+    "countryiso3code": "NIC",
+    "date": "2019",
+    "value": 39.01079941,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "NE",
+      "value": "Niger"
+    },
+    "countryiso3code": "NER",
+    "date": "2019",
+    "value": 11.28549957,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "NG",
+      "value": "Nigeria"
+    },
+    "countryiso3code": "NGA",
+    "date": "2019",
+    "value": 29.74410057,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "MK",
+      "value": "North Macedonia"
+    },
+    "countryiso3code": "MKD",
+    "date": "2019",
+    "value": 81.4128827618364,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "MP",
+      "value": "Northern Mariana Islands"
+    },
+    "countryiso3code": "MNP",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "NO",
+      "value": "Norway"
+    },
+    "countryiso3code": "NOR",
+    "date": "2019",
+    "value": 98.0000043853142,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "OM",
+      "value": "Oman"
+    },
+    "countryiso3code": "OMN",
+    "date": "2019",
+    "value": 90.25939941,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "PK",
+      "value": "Pakistan"
+    },
+    "countryiso3code": "PAK",
+    "date": "2019",
+    "value": 17.070901719916,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "PW",
+      "value": "Palau"
+    },
+    "countryiso3code": "PLW",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "PA",
+      "value": "Panama"
+    },
+    "countryiso3code": "PAN",
+    "date": "2019",
+    "value": 63.6284147731451,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "PG",
+      "value": "Papua New Guinea"
+    },
+    "countryiso3code": "PNG",
+    "date": "2019",
+    "value": 13.62419987,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "PY",
+      "value": "Paraguay"
+    },
+    "countryiso3code": "PRY",
+    "date": "2019",
+    "value": 68.5176284222264,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2019",
+    "value": 59.9505036049006,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "PH",
+      "value": "Philippines"
+    },
+    "countryiso3code": "PHL",
+    "date": "2019",
+    "value": 43.0266118680279,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "PL",
+      "value": "Poland"
+    },
+    "countryiso3code": "POL",
+    "date": "2019",
+    "value": 80.4359068768673,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "PT",
+      "value": "Portugal"
+    },
+    "countryiso3code": "PRT",
+    "date": "2019",
+    "value": 75.3463779408712,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "PR",
+      "value": "Puerto Rico (US)"
+    },
+    "countryiso3code": "PRI",
+    "date": "2019",
+    "value": 77.7364393708352,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "QA",
+      "value": "Qatar"
+    },
+    "countryiso3code": "QAT",
+    "date": "2019",
+    "value": 99.6528042086389,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "RO",
+      "value": "Romania"
+    },
+    "countryiso3code": "ROU",
+    "date": "2019",
+    "value": 73.6574757545465,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "RU",
+      "value": "Russian Federation"
+    },
+    "countryiso3code": "RUS",
+    "date": "2019",
+    "value": 82.6421618670668,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "RW",
+      "value": "Rwanda"
+    },
+    "countryiso3code": "RWA",
+    "date": "2019",
+    "value": 21.3579998,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "WS",
+      "value": "Samoa"
+    },
+    "countryiso3code": "WSM",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "SM",
+      "value": "San Marino"
+    },
+    "countryiso3code": "SMR",
+    "date": "2019",
+    "value": 67.85070038,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "ST",
+      "value": "Sao Tome and Principe"
+    },
+    "countryiso3code": "STP",
+    "date": "2019",
+    "value": 44.25790024,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "SA",
+      "value": "Saudi Arabia"
+    },
+    "countryiso3code": "SAU",
+    "date": "2019",
+    "value": 95.7247355953812,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "SN",
+      "value": "Senegal"
+    },
+    "countryiso3code": "SEN",
+    "date": "2019",
+    "value": 43.37969971,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "RS",
+      "value": "Serbia"
+    },
+    "countryiso3code": "SRB",
+    "date": "2019",
+    "value": 77.4167736219802,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "SC",
+      "value": "Seychelles"
+    },
+    "countryiso3code": "SYC",
+    "date": "2019",
+    "value": 76.63420105,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "SL",
+      "value": "Sierra Leone"
+    },
+    "countryiso3code": "SLE",
+    "date": "2019",
+    "value": 15.71370029,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "SG",
+      "value": "Singapore"
+    },
+    "countryiso3code": "SGP",
+    "date": "2019",
+    "value": 88.9492526850762,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "SX",
+      "value": "Sint Maarten (Dutch part)"
+    },
+    "countryiso3code": "SXM",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "SK",
+      "value": "Slovak Republic"
+    },
+    "countryiso3code": "SVK",
+    "date": "2019",
+    "value": 82.8536605021784,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "SI",
+      "value": "Slovenia"
+    },
+    "countryiso3code": "SVN",
+    "date": "2019",
+    "value": 83.1083578026717,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "SB",
+      "value": "Solomon Islands"
+    },
+    "countryiso3code": "SLB",
+    "date": "2019",
+    "value": 22.48880005,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "SO",
+      "value": "Somalia, Fed. Rep."
+    },
+    "countryiso3code": "SOM",
+    "date": "2019",
+    "value": 2.731400013,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "ZA",
+      "value": "South Africa"
+    },
+    "countryiso3code": "ZAF",
+    "date": "2019",
+    "value": 69.69689941,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "SS",
+      "value": "South Sudan"
+    },
+    "countryiso3code": "SSD",
+    "date": "2019",
+    "value": 6.671000004,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "ES",
+      "value": "Spain"
+    },
+    "countryiso3code": "ESP",
+    "date": "2019",
+    "value": 90.718665325267,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "LK",
+      "value": "Sri Lanka"
+    },
+    "countryiso3code": "LKA",
+    "date": "2019",
+    "value": 32.02090073,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "KN",
+      "value": "St. Kitts and Nevis"
+    },
+    "countryiso3code": "KNA",
+    "date": "2019",
+    "value": 69.43499756,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "LC",
+      "value": "St. Lucia"
+    },
+    "countryiso3code": "LCA",
+    "date": "2019",
+    "value": 61.08050156,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "MF",
+      "value": "St. Martin (French part)"
+    },
+    "countryiso3code": "MAF",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "VC",
+      "value": "St. Vincent and the Grenadines"
+    },
+    "countryiso3code": "VCT",
+    "date": "2019",
+    "value": 59.57630157,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "SD",
+      "value": "Sudan"
+    },
+    "countryiso3code": "SDN",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "SR",
+      "value": "Suriname"
+    },
+    "countryiso3code": "SUR",
+    "date": "2019",
+    "value": 62.03350067,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "countryiso3code": "SWE",
+    "date": "2019",
+    "value": 94.4934434072202,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "CH",
+      "value": "Switzerland"
+    },
+    "countryiso3code": "CHE",
+    "date": "2019",
+    "value": 93.1460869535177,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "SY",
+      "value": "Syrian Arab Republic"
+    },
+    "countryiso3code": "SYR",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "TJ",
+      "value": "Tajikistan"
+    },
+    "countryiso3code": "TJK",
+    "date": "2019",
+    "value": 22.68630028,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "TZ",
+      "value": "Tanzania"
+    },
+    "countryiso3code": "TZA",
+    "date": "2019",
+    "value": 16.59090042,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "TH",
+      "value": "Thailand"
+    },
+    "countryiso3code": "THA",
+    "date": "2019",
+    "value": 66.6524194587528,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "TL",
+      "value": "Timor-Leste"
+    },
+    "countryiso3code": "TLS",
+    "date": "2019",
+    "value": 28.00460052,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "TG",
+      "value": "Togo"
+    },
+    "countryiso3code": "TGO",
+    "date": "2019",
+    "value": 20.72730064,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "TO",
+      "value": "Tonga"
+    },
+    "countryiso3code": "TON",
+    "date": "2019",
+    "value": 51.56299973,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "TT",
+      "value": "Trinidad and Tobago"
+    },
+    "countryiso3code": "TTO",
+    "date": "2019",
+    "value": 74.98670197,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "TN",
+      "value": "Tunisia"
+    },
+    "countryiso3code": "TUN",
+    "date": "2019",
+    "value": 66.6999983024144,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "TR",
+      "value": "Turkiye"
+    },
+    "countryiso3code": "TUR",
+    "date": "2019",
+    "value": 73.9767022871511,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "TM",
+      "value": "Turkmenistan"
+    },
+    "countryiso3code": "TKM",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "TC",
+      "value": "Turks and Caicos Islands"
+    },
+    "countryiso3code": "TCA",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "TV",
+      "value": "Tuvalu"
+    },
+    "countryiso3code": "TUV",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "UG",
+      "value": "Uganda"
+    },
+    "countryiso3code": "UGA",
+    "date": "2019",
+    "value": 11.72579956,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "UA",
+      "value": "Ukraine"
+    },
+    "countryiso3code": "UKR",
+    "date": "2019",
+    "value": 70.1248442995263,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "AE",
+      "value": "United Arab Emirates"
+    },
+    "countryiso3code": "ARE",
+    "date": "2019",
+    "value": 99.1499979561243,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "GB",
+      "value": "United Kingdom"
+    },
+    "countryiso3code": "GBR",
+    "date": "2019",
+    "value": 92.5166285497138,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "US",
+      "value": "United States"
+    },
+    "countryiso3code": "USA",
+    "date": "2019",
+    "value": 89.4302848575712,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "UY",
+      "value": "Uruguay"
+    },
+    "countryiso3code": "URY",
+    "date": "2019",
+    "value": 83.3515337667548,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "UZ",
+      "value": "Uzbekistan"
+    },
+    "countryiso3code": "UZB",
+    "date": "2019",
+    "value": 70.3999986481458,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "VU",
+      "value": "Vanuatu"
+    },
+    "countryiso3code": "VUT",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "VE",
+      "value": "Venezuela, RB"
+    },
+    "countryiso3code": "VEN",
+    "date": "2019",
+    "value": 49.05009842,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "VN",
+      "value": "Viet Nam"
+    },
+    "countryiso3code": "VNM",
+    "date": "2019",
+    "value": 68.6615802057338,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "VI",
+      "value": "Virgin Islands (U.S.)"
+    },
+    "countryiso3code": "VIR",
+    "date": "2019",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "PS",
+      "value": "West Bank and Gaza"
+    },
+    "countryiso3code": "PSE",
+    "date": "2019",
+    "value": 70.6225837001758,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "YE",
+      "value": "Yemen, Rep."
+    },
+    "countryiso3code": "YEM",
+    "date": "2019",
+    "value": 17.49099922,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "ZM",
+      "value": "Zambia"
+    },
+    "countryiso3code": "ZMB",
+    "date": "2019",
+    "value": 14.47189999,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "ZW",
+      "value": "Zimbabwe"
+    },
+    "countryiso3code": "ZWE",
+    "date": "2019",
+    "value": 26.5883007,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  }
+]

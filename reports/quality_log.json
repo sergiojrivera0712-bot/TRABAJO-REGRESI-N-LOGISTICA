@@ -1,0 +1,7 @@
+{
+  "registros_indicador_objetivo_banco_mundial": 260,
+  "registros_tras_union_de_las_6_variables": 261,
+  "descartados_por_ser_agregado_regional": 46,
+  "descartados_por_datos_faltantes": 84,
+  "paises_finales_en_dataset": 131
+}
