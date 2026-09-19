@@ -35,6 +35,7 @@ from pathlib import Path
 
 import requests
 
+
 sys.path.append(str(Path(__file__).resolve().parent))
 from config import ALL_INDICATORS, API_BASE_URL, DATA_RAW_DIR, YEAR  # noqa: E402
 
