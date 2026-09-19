@@ -31,7 +31,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 
 sys.path.append(str(Path(__file__).resolve().parent))
-from config import DATA_PROCESSED_DIR, FEATURE_COLUMNS, FIGURES_DIR, REPORTS_DIR, TARGET_COLUMN  # noqa: E402
+from config import DATA_PROCESSED_DIR, FEATURE_COLUMNS, FIGURES_DIR, REPORTS_DIR, TARGET_COLUMN  
 
 plt.rcParams.update({"figure.dpi": 140, "font.size": 9})
 
@@ -72,8 +72,8 @@ def main() -> None:
     ax.scatter(y_test, y_test_pred, s=22, alpha=0.7, color="#1C7293", label="paises (prueba)")
     lims = [min(y_test.min(), y_test_pred.min()), max(y_test.max(), y_test_pred.max())]
     ax.plot(lims, lims, color="crimson", linestyle="--", linewidth=1.3, label="y = x (prediccion perfecta)")
-    ax.set_xlabel("Esperanza de vida real (anios)")
-    ax.set_ylabel("Esperanza de vida predicha (anios)")
+    ax.set_xlabel("Esperanza de vida real (años)")
+    ax.set_ylabel("Esperanza de vida predicha (años)")
     ax.set_title(f"Real vs. predicho (set de prueba, n={len(y_test)})")
     ax.legend(fontsize=7)
     fig.tight_layout()

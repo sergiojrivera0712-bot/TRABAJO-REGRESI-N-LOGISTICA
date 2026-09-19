@@ -1,5 +1,5 @@
 """
-Configuracion central del proyecto: semilla de aleatoriedad, anio de analisis,
+Configuracion central del proyecto: semilla de aleatoriedad, año de analisis,
 indicadores del Banco Mundial y rutas relativas.
 
 Mantener todas las "constantes mágicas" en un solo lugar facilita la
@@ -30,13 +30,13 @@ for _dir in (DATA_RAW_DIR, DATA_PROCESSED_DIR, FIGURES_DIR, REPORTS_DIR):
 # https://api.worldbank.org/v2/  — no requiere autenticacion ni API key.
 # ------------------------------------------------------------------
 API_BASE_URL = "https://api.worldbank.org/v2"
-YEAR = 2019  # ultimo anio pre-pandemia con buena cobertura para todos los indicadores
+YEAR = 2019  # ultimo año pre-pandemia con buena cobertura para todos los indicadores
 
 # Variable objetivo (continua)
 TARGET = {
     "code": "SP.DYN.LE00.IN",
     "name": "esperanza_vida",
-    "label": "Esperanza de vida al nacer (anios)",
+    "label": "Esperanza de vida al nacer (años)",
 }
 
 # Predictores (3-6 variables continuas)

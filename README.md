@@ -5,7 +5,7 @@ modelo de **Regresion Lineal**, desde la obtencion de datos hasta la
 evaluacion, usando datos abiertos del **Banco Mundial (World Bank Open
 Data)**.
 
-- **Variable objetivo (continua):** esperanza de vida al nacer (anios), anio 2019.
+- **Variable objetivo (continua):** esperanza de vida al nacer (años), anio 2019.
 - **Predictores (5):** PIB per capita, gasto en salud per capita, poblacion
   urbana (%), matricula bruta en secundaria (%), usuarios de internet (%).
 - **Unidad de analisis:** pais (n = 131 paises tras la limpieza).
@@ -54,7 +54,7 @@ Criterios de calidad aplicados en `prepare_and_eda.py` (ver tambien
 3. Se descartan filas con datos faltantes en la variable objetivo o en
    cualquiera de los 5 predictores.
 4. Se descartan valores no fisicamente posibles (defensivo): esperanza de
-   vida fuera de (0, 120) anios, predictores negativos.
+   vida fuera de (0, 120) años, predictores negativos.
 
 Resultado: de 260 registros originales del indicador objetivo, quedan
 **131 paises** con datos completos y validos en las 6 variables.
@@ -85,13 +85,6 @@ Todos los scripts usan **rutas relativas** (definidas en `src/config.py` a
 partir de la ubicacion del propio archivo) y una **semilla de aleatoriedad
 fija** (`RANDOM_SEED = 42`), por lo que el resultado es reproducible entre
 ejecuciones.
-
-> Nota: `python src/model.py` y `src/evaluate.py` implementan de forma manual
-> (con `scipy` y `scikit-learn`) los tests de supuestos que normalmente
-> ofrece `statsmodels` (Breusch-Pagan, Durbin-Watson, VIF), ya que
-> `statsmodels` se marca como **opcional** en los requisitos del proyecto.
-> Si tienes `statsmodels` instalado, puedes usarlo como alternativa/validacion
-> cruzada de estos resultados.
 
 ## Resultados principales (resumen)
 

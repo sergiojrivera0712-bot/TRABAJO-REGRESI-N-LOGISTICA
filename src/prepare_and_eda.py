@@ -23,7 +23,7 @@ import numpy as np
 import pandas as pd
 
 sys.path.append(str(Path(__file__).resolve().parent))
-from config import (  # noqa: E402
+from config import ( 
     ALL_INDICATORS,
     DATA_PROCESSED_DIR,
     DATA_RAW_DIR,
@@ -170,7 +170,7 @@ def run_eda(df: pd.DataFrame) -> None:
     # Histograma de la variable objetivo
     fig, ax = plt.subplots(figsize=(5, 3.5))
     ax.hist(df[TARGET_COLUMN], bins=20, color="#2C5F2D", edgecolor="white")
-    ax.set_xlabel("Esperanza de vida al nacer (anios)")
+    ax.set_xlabel("Esperanza de vida al nacer (años)")
     ax.set_ylabel("numero de paises")
     ax.set_title("Distribucion de la variable objetivo")
     fig.tight_layout()

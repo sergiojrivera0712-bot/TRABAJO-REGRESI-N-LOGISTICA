@@ -39,7 +39,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
 
 sys.path.append(str(Path(__file__).resolve().parent))
-from config import (  # noqa: E402
+from config import (  
     DATA_PROCESSED_DIR,
     FEATURE_COLUMNS,
     FIGURES_DIR,

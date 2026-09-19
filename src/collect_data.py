@@ -68,7 +68,7 @@ def _get_with_retries(url: str, log_path: Path) -> dict:
 
 
 def fetch_indicator(indicator_code: str, year: int, log_path: Path) -> list:
-    """Descarga un indicador para todos los paises en un anio dado."""
+    """Descarga un indicador para todos los paises en un año dado."""
     url = f"{API_BASE_URL}/country/all/indicator/{indicator_code}?format=json&date={year}&per_page=400"
     payload = _get_with_retries(url, log_path)
     # payload = [metadata, records]
